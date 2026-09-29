@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("paivakirja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b66ae27127846348f9c1f3dd02e9595d1309bab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("paivakirja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("paivakirja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

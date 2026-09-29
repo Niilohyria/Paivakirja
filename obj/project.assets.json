@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Niilo\\OneDrive - Hyria koulutus Oy\\Paivakirjaprojekti\\paivakirja\\paivakirja.csproj",
+      "projectUniqueName": "C:\\Users\\Niilo\\Paivakirja\\paivakirja.csproj",
       "projectName": "paivakirja",
-      "projectPath": "C:\\Users\\Niilo\\OneDrive - Hyria koulutus Oy\\Paivakirjaprojekti\\paivakirja\\paivakirja.csproj",
+      "projectPath": "C:\\Users\\Niilo\\Paivakirja\\paivakirja.csproj",
       "packagesPath": "C:\\Users\\Niilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Niilo\\OneDrive - Hyria koulutus Oy\\Paivakirjaprojekti\\paivakirja\\obj\\",
+      "outputPath": "C:\\Users\\Niilo\\Paivakirja\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Niilo\\AppData\\Roaming\\NuGet\\NuGet.Config"
